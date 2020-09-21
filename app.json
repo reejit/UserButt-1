@@ -1,7 +1,7 @@
 {
-  "name": "Telegram UserButt",
-  "description": "[UserButt] A modular Telegram userbot running on Python 3.7+ with an sqlalchemy database.",
-  "logo": "https://i.ibb.co/KhLWz5P/photo-2020-02-28-22-03-27.jpg",
+  "name": "CaptainAmericaUserBot",
+  "description": "[CaptainAmericaUserBot] A modular Telegram userbot running on Python 3.7+ with an sqlalchemy database.",
+  "logo": "https://telegra.ph/file/dd76027c7a3b57efb0880.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/keselekpermen69/userbutt",
+  "repository": "https://github.com/reejit/CaptainAmericaUserBot",
   "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02",
-  "success_url": "https://t.me/userbotindo",
+  "success_url": "https://t.me/captainAmericaUserbotSupport",
   "stack": "container",
   "env": {
     "API_KEY": {
